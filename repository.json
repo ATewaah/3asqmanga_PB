@@ -1,0 +1,10 @@
+{
+  "name": "My Extensions",
+  "baseURL": "https://YOUR_GITHUB_USERNAME.github.io/my-paperback-extensions",
+  "sources": [
+    {
+      "name": "3asqManga",
+      "url": "https://3asq.org"
+    }
+  ]
+}
