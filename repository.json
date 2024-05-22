@@ -1,6 +1,6 @@
 {
-  "name": "My Extensions",
-  "baseURL": "https://YOUR_GITHUB_USERNAME.github.io/my-paperback-extensions",
+  "name": "3asq Extension",
+  "baseURL": "https://github.com/ATewaah/3asqmanga_PB.git",
   "sources": [
     {
       "name": "3asqManga",
